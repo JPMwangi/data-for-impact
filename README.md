@@ -57,7 +57,7 @@ This repository is released under the **MIT License**—you can reuse, adapt, or
 - Start from what's local.  
 - Work with what's messy.  
 - Think in systems, not just stats.  
-- Make the invisible visible through context and clarity.
+- Make the invisible visible through context and clarity. Here is the link to the actual published work [Beyond Data Newsletter](https://www.linkedin.com/pulse/kenyas-youth-labour-crisis-deeper-than-unemployment-johnpeter-mwangi-csdvf/)
 
 ---
 
